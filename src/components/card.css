@@ -1,0 +1,29 @@
+.card-wrapper {
+  border: 2px solid greenyellow;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(238, 238, 238);
+}
+
+
+.card-img {
+  width: 200px;
+    height: 288px;
+    border: 2px solid yellow;
+}
+
+.card-name {
+  font-size: 20px;
+  color: rgb(56, 56, 56);
+}
+
+.author {
+  color: #9E866B;
+  font-size: 18px;
+}
+
+.price {
+  font-size: 16px;
+  color: red;
+
+}
